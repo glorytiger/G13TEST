@@ -3,12 +3,18 @@ some changes in the file
 
 
 
-Hva skjer her da Montro?
+Hva skjer her da Montro?fsdf
 
 
 
 Her legger jeg til dette
 
+<<<<<<< HEAD
+Endring 
+=======
+
 
 WHATEVER
 legg
+
+>>>>>>> 0cab1fcb8cbf0b3215201944a266a170caa6a3ec
