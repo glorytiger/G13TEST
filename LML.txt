@@ -1,1 +1,9 @@
-halla
+Halla
+
+
+
+Esc
+
+:wq
+
+Git push
